@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Network, Javascript, AWS**
 
-⚡ Fun fact **Giraffes are 30 times more likely to get hit by lightning than people.**
+⚡ Fun fact **The Universe's average colour is called 'Cosmic latte'.**
 
  </div>
  
