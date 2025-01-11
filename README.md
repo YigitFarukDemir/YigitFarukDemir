@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Network, Javascript, AWS**
 
-⚡ Fun fact **The Universe's average colour is called 'Cosmic latte'.**
+⚡ Fun fact **A lightning bolt is five times hotter than the surface of the Sun.**
 
  </div>
  
